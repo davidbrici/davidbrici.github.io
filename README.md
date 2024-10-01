@@ -1,36 +1,53 @@
-<h1>Hi, I'm David! <br/><a href="https://github.com/">Programmer</a>, <a href="https://linkedin.com/in/david-brici-4495ab110/">Researcher</a></h1>
+# Hi, I'm David!  
+[Programmer](https://github.com/) | [Researcher](https://linkedin.com/in/david-brici-4495ab110/)
 
-<h2>👨‍💻 Software Development Projects:</h2>
+## 👨‍💻 Software Development Projects:
+Here are some of my most exciting projects:
 
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- **Python**
+  - [Package Delivery Pathfinding Algorithm](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)  
+    *A demonstration of data structures and algorithms applied in real-world scenarios.*
+  - [Brisbane Fuel Price Prediction](https://github.com/your-repo/fuel-price-prediction)  
+    *Predicting fuel prices in Brisbane using neural networks in Python.*
 
-<h2>📺 Popular YouTube Videos</h2>
+## 🧠 Research & Machine Learning Projects:
+- **Bioinformatics**
+  - *Coming Soon*  
+    *Focused on personalized medicine and genomics.*
 
+## 📺 Featured YouTube Videos:
+Check out some of my recent favorite resources:
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
-<h2>🏆 Certifications </h2>
+## 🏆 Certifications:
+- [Google Advanced Data Analytics Professional Certificate](https://coursera.org/share/1d1b812c5d571724828da2be62afd3dd)
 
-- [Google Advanced Data Analytics Professional Certificate [https://coursera.org/share/1d1b812c5d571724828da2be62afd3dd]
+## 🔧 Technologies & Tools:
+- **Programming Languages**: Python, R
+- **Machine Learning**: TensorFlow, PyTorch, scikit-learn
+- **Database**: SQL, PostgreSQL
+- **Other**: Git, Jupyter, VSCode
 
-<h2> 🤳 Connect with me:</h2>
+## 🚀 What I’m Currently Working On:
+- 🔭 Predicting Brisbane fuel prices using machine learning
+- 🌱 Learning advanced neural networks in Python
+- 🤔 Looking for help with deploying ML models to the cloud
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## 💬 Let's Talk About:
+- Neuroscience and bioinformatics applications in healthcare
+- Collaborating on personalized medicine projects
+- AI and ML applications in research
 
-[twitter]: https://twitter.com/
-[youtube]: https://www.youtube.com/
-[instagram]: https://www.instagram.com/
+## 📫 How to Reach Me:
+- **Email**: david.brici@gmail.com
+- **LinkedIn**: [David Brici](https://linkedin.com/in/david-brici-4495ab110/)
+
+## 😄 Pronouns: 
+- he/him
+
+## 🤳 Connect with Me:
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)][linkedin] 
+[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)][instagram]
+
+[instagram]: https://www.instagram.com/your-username/
 [linkedin]: https://linkedin.com/in/david-brici-4495ab110/
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on predicting Brisbane fuel prices
-- 🌱 I’m currently learning neural networks in Python
-- 👯 I’m looking to collaborate on personalised medicine bioinformatics
-- 🤔 I’m looking for help with delopying ML models
-- 💬 Ask me about neuroscience
-- 📫 How to reach me: david.brici@gmail.com
-- 😄 Pronouns: he/him
