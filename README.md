@@ -1,51 +1,53 @@
 # Hi, I'm David!  
 **Aspiring Machine Learning Engineer | Researcher | Python Developer**
-
-Welcome to my GitHub portfolio! I am currently transitioning from research into machine learning and AI engineering, with a strong foundation in Python, SQL, and machine learning algorithms. I am continuously learning and applying advanced techniques to solve real-world problems.
+--- 
+Welcome to my GitHub portfolio! I have a strong foundation in Python and SQL, complemented by extensive experience in advanced analytics within biological sciences. I have effectively led complex drug perturbation projects in a genetics lab and have hands-on experience working with laboratory robotics and cutting-edge technology. I am continuously learning and applying advanced techniques to solve real-world problems.
 
 ---
 
 ## 🧑‍💻 **Highlighted Projects:**
 
-### 1. **Computer Vision: Barcode Scanner & Inventory Management**  
-*Computer Vision, Python, OpenCV, Keras*  
-**[GitHub Repository](https://github.com/your-repo/barcode-scanner-inventory)**  
-This project involves creating a mobile-based inventory management system using a barcode scanner, built with OpenCV and Keras. It demonstrates the integration of computer vision with machine learning for real-world use cases.
+1. **Azure ML Studio: Bike Share Demand Prediction**  
+   *Machine Learning, Cloud, Python, Azure ML Studio*  
+   **[GitHub Repository](https://github.com/davidbrici/my_portfolio/blob/master/ml_portfolio/Projects/6_Cloud-Deployment/bike_ml-azure/logging_metrics.ipynb)**  
+   This project involves using Azure ML Studio to build and compare multiple machine learning algorithms for predicting bike share demand. I utilized cloud-based tools to deploy models, assess their performance, and integrate real-time data handling workflows.  
+   - **Key Skills**: Cloud-based machine learning, data preprocessing, model comparison  
+   - **Tech Stack**: Python, Azure ML Studio, Scikit-learn, Pandas, Jupyter Notebooks  
 
-- **Key Skills**: Computer vision, image processing, neural networks
-- **Tech Stack**: Python, OpenCV, Keras, TensorFlow
+2. **Chicago Socioeconomic & Crime Correlation Analysis**  
+   *Machine Learning, Data Analysis, Python, SQL*  
+   **[GitHub Repository](#)**  
+   This project explores the correlations between socioeconomic factors and crime rates in Chicago. Using SQL for data retrieval and Python for analysis, I utilized various APIs to gather relevant data sets. The analysis highlights significant trends and provides insights into how socioeconomic variables influence crime statistics.  
+   - **Key Skills**: Data analysis, statistical modeling, data visualization  
+   - **Tech Stack**: SQL, Pandas, Matplotlib  
 
-### 2. **Package Delivery Pathfinding Algorithm**  
-*Algorithms, Pathfinding, Python*  
-**[GitHub Repository](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)**  
-This project applies pathfinding algorithms (like Dijkstra's and A*) to solve package delivery route optimization. It demonstrates my understanding of data structures and algorithmic thinking in real-world scenarios.
+3. **Stop Sign Detection using Haar Cascades**  
+   *Computer Vision, Object Detection, OpenCV, IBM Cloud*  
+   **[GitHub Repository](#)**  
+   In this project, I developed an object detection system that identifies stop signs in real-time using Haar Cascade classifiers. The trained model was deployed on IBM Cloud, allowing for efficient inference in various environments. This project showcases my ability to apply computer vision techniques and deploy models to cloud platforms.  
+   - **Key Skills**: Object detection, computer vision, model deployment  
+   - **Tech Stack**: OpenCV, TensorFlow, IBM Cloud  
 
-- **Key Skills**: Graph algorithms, Python, optimization
-- **Tech Stack**: Python, NetworkX, Matplotlib
 
-### 3. **Bioinformatics Pipeline (Coming Soon)**  
-*Personalized Medicine, Genomics, Python*  
-I am currently developing a bioinformatics pipeline focused on personalized medicine. This project involves analyzing genomic data to build models predicting patient-specific treatment responses.
-
-- **Key Skills**: Genomics, data pipelines, Python (under development)
-- **Tech Stack**: Python, Pandas, NumPy, scikit-learn
 
 ---
 
 ## 💡 **What I'm Working On Right Now:**
 
-- 🔭 Expanding my skills in computer vision (OpenCV, Keras) by implementing a real-time object detection project.
-- 📊 Developing machine learning pipelines using Python and TensorFlow.
-- 🤔 Learning how to deploy ML models to the cloud (AWS, Google Cloud).
+- 🔭 Expanding my skills in computer vision (OpenCV, Keras) by to enhance clinical detection methods in healthcare.
+- 📊 Developing machine learning pipelines to link SNP (single nucleotide polymorphism) readouts to genetic traits, aiming to improve personalized medicine applications.
+- 🤔 Continuing to learn how to deploy ML models as applications or to the cloud, making them accessible for real-world use.
 
 ---
 
 ## 🛠 **Technologies & Skills:**
 
-- **Programming Languages**: Python, SQL
-- **Machine Learning Frameworks**: TensorFlow, Keras, PyTorch, scikit-learn
-- **Computer Vision**: OpenCV, basic Keras implementations
-- **Databases**: SQL, PostgreSQL
+- **Programming Languages**: Python, SQL, Bash
+- **Machine Learning Frameworks**: scikit-learn, Keras, PyTorch
+- **Computer Vision**: OpenCV, Pillow
+- **Data Processing**: Pandas, NumPy
+- **Data Processing**: Azure ML Studio, IBM Cloud
+- **Databases**: SQL
 - **Tools**: Git, Jupyter, VSCode
 
 ---
@@ -59,7 +61,7 @@ I am currently developing a bioinformatics pipeline focused on personalized medi
 ## 🎯 **My Goals**:
 
 - **Short-term**: Master machine learning pipelines, improve my deep learning skills, and work on deploying ML models.
-- **Long-term**: Transition to a full-time ML engineer role, applying AI to real-world problems in healthcare and research.
+- **Long-term**: Applying AI to real-world problems in healthcare and research.
 
 ---
 
@@ -68,10 +70,6 @@ I am currently developing a bioinformatics pipeline focused on personalized medi
 - Machine learning projects, especially in predictive modeling and computer vision.
 - Research applications of AI in healthcare, especially genomics and personalized medicine.
 
----
-
-## 📄 **Resume**:  
-[View My Resume](https://github.com/your-resume-link)
 
 ---
 
@@ -80,12 +78,6 @@ I am currently developing a bioinformatics pipeline focused on personalized medi
 - **Email**: david.brici@gmail.com  
 - **LinkedIn**: [David Brici](https://linkedin.com/in/david-brici-4495ab110/)
 
----
-
-## 🌍 **Connect with Me**:
-
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)][linkedin]  
-[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)][instagram]
 
 [instagram]: https://www.instagram.com/your-username/  
 [linkedin]: https://linkedin.com/in/david-brici-4495ab110/
