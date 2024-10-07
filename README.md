@@ -14,21 +14,19 @@ Welcome to my GitHub portfolio! I have a strong foundation in Python and SQL, co
    - **Key Skills**: Cloud-based machine learning, data preprocessing, model comparison  
    - **Tech Stack**: Python, Azure ML Studio, Scikit-learn, Pandas, Jupyter Notebooks  
 
-2. **Chicago Socioeconomic & Crime Correlation Analysis**  
+2. **Stop Sign Detection using Haar Cascades**  
+   *Computer Vision, Object Detection, OpenCV, IBM Cloud*  
+   **[GitHub Repository](https://github.com/davidbrici/my_portfolio/tree/master/ml_portfolio/Projects/6_Cloud-Deployment/Stop_Sign_Predictor)**  
+   In this project, I developed an object detection system that identifies stop signs in real-time using Haar Cascade classifiers. The trained model was deployed on IBM Cloud, allowing for efficient inference in various environments. This project showcases my ability to apply computer vision techniques and deploy models to cloud platforms.  
+   - **Key Skills**: Object detection, computer vision, model deployment  
+   - **Tech Stack**: OpenCV, PyTorch, Jupyter Notebooks, IBM Cloud  
+
+3. **Chicago Socioeconomic & Crime Correlation Analysis**  
    *Machine Learning, Data Analysis, Python, SQL*  
-   **[GitHub Repository](#)**  
+   **[In Progress](#)**  
    This project explores the correlations between socioeconomic factors and crime rates in Chicago. Using SQL for data retrieval and Python for analysis, I utilized various APIs to gather relevant data sets. The analysis highlights significant trends and provides insights into how socioeconomic variables influence crime statistics.  
    - **Key Skills**: Data analysis, statistical modeling, data visualization  
    - **Tech Stack**: SQL, Pandas, Matplotlib  
-
-3. **Stop Sign Detection using Haar Cascades**  
-   *Computer Vision, Object Detection, OpenCV, IBM Cloud*  
-   **[GitHub Repository](#)**  
-   In this project, I developed an object detection system that identifies stop signs in real-time using Haar Cascade classifiers. The trained model was deployed on IBM Cloud, allowing for efficient inference in various environments. This project showcases my ability to apply computer vision techniques and deploy models to cloud platforms.  
-   - **Key Skills**: Object detection, computer vision, model deployment  
-   - **Tech Stack**: OpenCV, TensorFlow, IBM Cloud  
-
-
 
 ---
 
