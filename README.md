@@ -1,83 +1,103 @@
 # Hi, I'm David!  
 **Aspiring Machine Learning Engineer | Researcher | Python Developer**
---- 
-Welcome to my GitHub portfolio! I have a strong foundation in Python and SQL, complemented by extensive experience in advanced analytics within biological sciences. I have effectively led complex drug perturbation projects in a genetics lab and have hands-on experience working with laboratory robotics and cutting-edge technology. I am continuously learning and applying advanced techniques to solve real-world problems.
 
 ---
 
-## 🧑‍💻 **Highlighted Projects:**
+Welcome to My GitHub Portfolio! A space where **machine learning** meets **problem-solving in healthcare**.  
 
-1. **Azure ML Studio: Bike Share Demand Prediction**  
-   *Machine Learning, Cloud, Python, Azure ML Studio*  
-   **[GitHub Repository](https://github.com/davidbrici/my_portfolio/blob/master/6_Cloud-Deployment/bike_ml-azure/logging_metrics.ipynb)**  
-   This project involves using Azure ML Studio to build and compare multiple machine learning algorithms for predicting bike share demand. I utilized cloud-based tools to deploy models, assess their performance, and integrate real-time data handling workflows.  
-   - **Key Skills**: Cloud-based machine learning, data preprocessing, model comparison  
-   - **Tech Stack**: Python, Azure ML Studio, Scikit-learn, Pandas, Jupyter Notebooks
+With expertise in **machine learning, data analytics, and computer vision**, I thrive on uncovering hidden patterns, making accurate predictions, and building intelligent solutions that drive **real-world impact**.  
 
-2. **Bone Fracture Detection Using ResNet18**  
-   *Machine Learning, Data Analysis, Python, SQL*  
-   **[GitHub Repository](https://github.com/davidbrici/my_portfolio/blob/master/4_Computer-Vision/notebooks/bone-fracture-detection.ipynb)**  
-   In this project, I developed a deep learning model to detect bone fractures in medical images using the ResNet-18 architecture. The model was trained on a comprehensive dataset of X-ray images, achieving high accuracy in identifying fractures, thereby aiding in the early diagnosis and treatment of skeletal injuries. This project highlights my expertise in applying convolutional neural networks for image classification tasks in the healthcare domain. 
-   - **Key Skills**: Image classification, deep learning, medical image analysis  
-   - **Tech Stack**: PyTorch, Pillow, Matplotlib, Kaggle Notebooks, TensorFlow
+My passion lies in automation, distilling complex ideas into clear, actionable insights, and leveraging AI to enhance decision-making in **medicine and healthcare**. Whether it's predicting patient outcomes, detecting anomalies in medical imaging, or optimising workflows, I aim to create models that go beyond algorithms—they solve **critical, human-centred problems**.  
 
-3. **Stop Sign Detection using Haar Cascades**  
-   *Computer Vision, Object Detection, OpenCV, IBM Cloud*  
-   **[GitHub Repository](https://github.com/davidbrici/my_portfolio/tree/master/6_Cloud-Deployment/Stop_Sign_Predictor)**  
-   In this project, I developed an object detection system that identifies stop signs in real-time using Haar Cascade classifiers. The trained model was deployed on IBM Cloud, allowing for efficient inference in various environments. This project showcases my ability to apply computer vision techniques and deploy models to cloud platforms.  
-   - **Key Skills**: Object detection, computer vision, model deployment  
-   - **Tech Stack**: OpenCV, PyTorch, Jupyter Notebooks, IBM Cloud  
+This portfolio is a reflection of my **technical expertise**, featuring well-documented projects, practical guides, and streamlined workflows. Whether you're an AI enthusiast, a researcher, or someone curious about the power of AI in healthcare, I invite you to explore my work and collaborate.  
 
 ---
 
-## 💡 **What I'm Working On Right Now:**
+## 🚀 **Highlighted Projects**
 
-- 🔭 Expanding my skills in computer vision (OpenCV, Keras) by to enhance clinical detection methods in healthcare.
-- 📊 Developing machine learning pipelines to link SNP (single nucleotide polymorphism) readouts to genetic traits, aiming to improve personalized medicine applications.
-- 🤔 Continuing to learn how to deploy ML models as applications or to the cloud, making them accessible for real-world use.
+### 🏥 Bone Fracture Detection Using ResNet18  
+**Machine Learning | Data Analysis | Python | SQL**  
+📌 **[GitHub Repository](https://github.com/davidbrici/ml-portfolio-db/tree/main/computer_vision/bone_fracture)**  
+Developed a **deep learning model** using **ResNet-18** to detect bone fractures in **medical images**. The model was trained on a **comprehensive dataset of X-ray images**, achieving **high accuracy** in identifying fractures.  
+✔ **Key Skills**: Image classification, deep learning, medical image analysis  
+🛠 **Tech Stack**: PyTorch, Pillow, Matplotlib, Kaggle Notebooks, TensorFlow  
 
----
+### 🏥 Exploring Scikit-learn In-built Diabetes Dataset  
+**Machine Learning | Data Analysis | Regression**  
+📌 **[GitHub Repository](https://github.com/davidbrici/ml-portfolio-db/tree/main/machine_learning/diabetes_analysis)**  
+This project explores the **inbuilt Diabetes dataset from Scikit-learn**, which includes 442 samples and 10 feature variables. The analysis covers **data preprocessing, training a linear regression model, and visualizing predictions** to understand disease progression based on BMI.  
+✔ **Key Skills**: Regression modeling, feature engineering, model evaluation  
+🛠 **Tech Stack**: Python, Scikit-learn, NumPy, Matplotlib, Seaborn, SciPy  
 
-## 🛠 **Technologies & Skills:**
-
-- **Programming Languages**: Python, R, Bash
-- **Machine Learning Frameworks**: scikit-learn, Keras, PyTorch, TensorFlow
-- **Computer Vision**: OpenCV, Pillow
-- **Data Processing**: Pandas, NumPy
-- **Cloud Platforms**: GCP, IBM Cloud
-- **Databases**: SQL
-- **Tools**: Git, Jupyter, VSCode, Docker, Flask
-
----
-
-## 🏆 **Certifications**:
-
-- [IBM AI Engineering Professional Certificate](https://github.com/davidbrici/certifications/blob/main/Coursera%20VLY4350TS6LZ_IBM%20AI%20Engineeering.pdf)
-- [Google Advanced Data Analytics Professional Certificate](https://github.com/davidbrici/certifications/blob/main/Coursera%20R2VMLRCUMC6S_Adv%20Data%20Analytics.pdf)
-- [Google Project Management Professional Certificate](https://github.com/davidbrici/certifications/blob/main/Coursera%20PH0YKDHOLITQ_Project%20Management.pdf)
-- [IBM Databases and SQL for Data Science](https://github.com/davidbrici/certifications/blob/main/Coursera%202ZLLD5MALMLW_IBM%20SQL.pdf)
+### 🏥 Predicting Patient Readmissions Using Machine Learning  
+**Machine Learning | Classification | Model Deployment**  
+📌 **[GitHub Repository](https://github.com/davidbrici/ml-portfolio-db/tree/main/machine_learning/readmission_classifier)**  
+This project focuses on predicting **hospital readmissions within 30 days** using demographic, clinical, and hospital visit data. By developing classification models such as **Logistic Regression, Random Forest, and CatBoost**, the project aims to identify high-risk patients and optimize care strategies.  
+✔ **Key Skills**: Classification modeling, feature importance analysis, hyperparameter tuning  
+🛠 **Tech Stack**: Python, Pandas, Scikit-learn, XGBoost, CatBoost, Seaborn  
 
 ---
 
-## 🎯 **My Goals**:
+## 📚 **How-To Guides & Code Snippets**
 
-- **Short-term**: Master computer vision pipelines, deploy in the cloud and on edge device, develop custom NLP models.
-- **Long-term**: Applying AI to real-world problems to advance healthcare, medicine and science.
-
----
-
-## 🤝 **Let's Collaborate On**:
-
-- Machine learning projects, especially in predictive modeling and computer vision.
-- Research applications of AI in healthcare, especially genomics and personalized medicine.
+🔹 **[Exploratory Data Analysis (EDA)](https://github.com/davidbrici/ml-portfolio-db/blob/main/coding_guides/eda.md)**  
+🔹 **[Computer Vision Basics](https://github.com/davidbrici/ml-portfolio-db/blob/main/coding_guides/cv_basics.md)**  
+🔹 **[Pandas for Data Analysis](https://github.com/davidbrici/ml-portfolio-db/blob/main/coding_guides/pandas.md)**  
+🔹 **[PyTorch Fundamentals](https://github.com/davidbrici/ml-portfolio-db/blob/main/coding_guides/pytorch.md)**  
+🔹 **[Docker Basics](https://github.com/davidbrici/ml-portfolio-db/blob/main/coding_guides/docker.md)**  
+🔹 **[AWS for Deployment (Free Tier)](https://github.com/davidbrici/ml-portfolio-db/blob/main/coding_guides/aws.md)**  
 
 ---
 
-## 📫 **How to Reach Me**:
+## 💡 **What I'm Working On Now**
 
-- **Email**: david.brici@gmail.com  
-- **LinkedIn**: [David Brici](https://linkedin.com/in/david-brici-4495ab110/)
+🔭 **Learning NLP**: Exploring how natural language processing can enhance decision-making by automating workflows, extracting insights from unstructured data, and streamlining information processing. Applying transformers and fine-tuned language models to tackle a wide range of challenges involving text and language understanding.  
 
+🚀 **Exploring Edge AI**: Developing AI models that run efficiently on low-power devices, optimising deployment for sensor technology, IoT applications, and real-time inference in environments with limited connectivity. Edge AI is shaping the future of autonomous systems, smart devices, and efficient computing at the edge 
 
-[instagram]: https://www.instagram.com/your-username/  
-[linkedin]: https://linkedin.com/in/david-brici-4495ab110/
+---
+
+## 🛠 **Technologies & Skills**
+
+🔹 **Programming**: Python, R, Bash  
+🔹 **Machine Learning**: scikit-learn, Keras, PyTorch, TensorFlow  
+🔹 **Computer Vision**: OpenCV, Pillow  
+🔹 **Data Processing**: Pandas, NumPy  
+🔹 **Cloud & Deployment**: AWS, IBM Cloud, Docker, Flask  
+🔹 **Databases**: SQL  
+🔹 **Tools**: Git, Jupyter, VS Code  
+
+---
+
+## 🏆 **Certifications**
+
+🎓 [IBM AI Engineering Professional Certificate](https://github.com/davidbrici/certifications/blob/main/Coursera%20VLY4350TS6LZ_IBM%20AI%20Engineeering.pdf)  
+🎓 [Google Advanced Data Analytics Professional Certificate](https://github.com/davidbrici/certifications/blob/main/Coursera%20R2VMLRCUMC6S_Adv%20Data%20Analytics.pdf)  
+🎓 [Google Project Management Professional Certificate](https://github.com/davidbrici/certifications/blob/main/Coursera%20PH0YKDHOLITQ_Project%20Management.pdf)  
+🎓 [IBM Databases and SQL for Data Science](https://github.com/davidbrici/certifications/blob/main/Coursera%202ZLLD5MALMLW_IBM%20SQL.pdf)  
+
+---
+
+## 🎯 **My Goals**
+
+🚀 **Short-term**: Strengthen my expertise in computer vision and NLP, refining end-to-end ML workflows from model development to deployment. Gain deeper insights into Edge AI and cloud-based ML solutions, ensuring models are efficient, scalable, and adaptable to real-world applications.  
+
+🌍 **Long-term**: Leverage AI and automation to drive data-driven solutions that improve efficiency, decision-making, and problem-solving across various domains. Focus on building intelligent systems that can adapt to real-world constraints, making AI more accessible, interpretable, and impactful. 
+
+---
+
+## 🤝 **Let's Collaborate On**
+
+📌 Machine learning projects, especially in predictive modeling and computer vision.  
+📌 Developing open-source tools and frameworks that simplify AI deployment and automation.  
+📌 Exploring real-world applications of AI, focusing on interpretability, usability, and ethical considerations. 
+
+---
+
+## 📫 **How to Reach Me**
+
+📧 **Email**: david.brici@gmail.com  
+💼 **LinkedIn**: [David Brici](https://www.linkedin.com/in/david-brici/)  
+🌎 **GitHub**: [David Brici's Portfolio](https://github.com/davidbrici)  
+
+---
